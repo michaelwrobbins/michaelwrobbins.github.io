@@ -108,11 +108,60 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "A Multi-Phase Survey Strategy for Obtaining Representativeness of Big Data",
+      "awarder": "National Science Foundation",
+      "summary": "Role: Principal Investigator - $991,127",
+      "startDate": "2019-01-01",
+      "endDate": "2024-09-30"
+    },
+    {
+      "title": "Data Fusion for Predicting Long-Term Program Impacts",
+      "awarder": "National Institutes of Health – National Institute on Aging",
+      "summary": "Role: Principal Investigator - $380,529",
+      "startDate": "2018-05-01",
+      "endDate": "2022-04-30"
+    },
+    {
+      "title": "Pew Retirement Savings Project",
+      "awarder": "National Institutes of Health – National Institute on Aging",
+      "summary": "Role: Co-Principal Investigator - $759,569",
+      "startDate": "2019-08-01",
+      "endDate": "2021-09-30"
+    },
+    {
+      "title": "An Innovative Approach for Measuring Performance of Border Security Programs",
+      "awarder": "RAND – HSOAC Director’s Innovation Awards",
+      "summary": "Role: Co-Principal Investigator - $50,000",
+      "startDate": "2018-05-01",
+      "endDate": "2018-09-30"
+    },
+    {
+      "title": "Expand ATP and ASLP Panels in Selected States",
+      "awarder": "Bill \& Melinda Gates Foundation",
+      "summary": "Role: Co-Principal Investigator - $6,284,026",
+      "startDate": "2016-08-01",
+      "endDate": "2019-04-30"
+    },
+    {
+      "title": "An R Package for SCM with Microlevel Data",
+      "awarder": "RAND Center for Causal Inference",
+      "summary": "Role: Principal Investigator - $12,500",
+      "startDate": "2017-03-01",
+      "endDate": "2017-09-30"
+    },
+    {
+      "title": "Weighted Methods for Imputation in Complex Survey Data",
+      "awarder": "U.S. Department of Agriculture",
+      "summary": "Role: Principal Investigator - $10,000",
+      "startDate": "2013-04-01",
+      "endDate": "2014-03-31"
+    },
+    {
+      "title": "Improvement of the Agricultural Resource Management Survey (ARMS) Methodology Phase 3 Imputation",
+      "awarder": "U.S. Department of Agriculture",
+      "summary": "Role: Principal Investigator - $16,440",
+      "startDate": "2012-06-01",
+      "endDate": "2012-09-30"
     }
   ],
   "publications": [
