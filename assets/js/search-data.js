@@ -511,13 +511,6 @@ ninja.data = [{
           window.open("mailto:%6D%72%6F%62%62%69%6E%73@%72%61%6E%64.%6F%72%67", "_blank");
         },
       },{
-        id: 'social-arxiv',
-        title: 'arXiv',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://arxiv.org/a/0000-0003-4972-1733.html", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -537,6 +530,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=AHDTtwgAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-arxiv',
+        title: 'arXiv',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://arxiv.org/a/0000-0003-4972-1733.html", "_blank");
         },
       },{
       id: 'light-theme',
