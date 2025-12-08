@@ -1,61 +1,109 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Michael Robbins",
+    "label": "Senior Statistician",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "mrobbins@rand.org",
+    "phone": "(412) 683-2300",
+    "url": "https://michaelwrobbins.github.io/",
+    "_comment": "summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "4570 Fifth Avenue",
+      "postalCode": "PA 15213",
+      "city": "Pittsburgh",
       "countryCode": "US",
-      "region": "California"
+      "region": "Pennsylvania"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Google Scholar",
+        "_comment": "username: AlbertEinstein",
+        "url": "https://scholar.google.com/citations?user=AHDTtwgAAAAJ"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "RAND Corporation",
+      "position": "Senior Statistician",
+      "url": "https://www.rand.org/pubs/authors/r/robbins_michael_w.html",
+      "startDate": "2021",
+      "endDate": "2025",
+      "location": "Pittsburgh, PA"
+    }, 
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
+      "name": "RAND Corporation",
+      "position": "Statistician",
+      "url": "https://www.rand.org/pubs/authors/r/robbins_michael_w.html",
+      "startDate": "2015",
+      "endDate": "2021",
+      "location": "Pittsburgh, PA"
+    }, 
+    {
+      "name": "The RAND Corporation",
+      "position": "Associate Statistician",
+      "url": "https://www.rand.org/pubs/authors/r/robbins_michael_w.html",
+      "startDate": "2013",
+      "endDate": "2015",
+      "location": "Pittsburgh, PA"
+    },
+    {
+      "name": "Pardee RAND Graduate School",
+      "position": "Professor",
+      "url": "https://www.pardeerand.edu/",
+      "startDate": "2017",
+      "endDate": "2025",
+      "location": "Santa Monica, CA"
+    },  
+    {
+      "name": "University of Missouri, Columbia",
+      "position": "Assistant Professor, Department of Statistics",
+      "url": "https://stat.missouri.edu/",
+      "startDate": "2011",
+      "endDate": "2013",
+      "location": "Columbia, MO"
+    },  
+    {
+      "name": "National Institute of Statistical Sciences",
+      "position": "Postdoctoral Fellow",
+      "url": "https://www.niss.org/",
+      "startDate": "2009",
+      "endDate": "2011",
+      "location": "Research Triangle Park, NC"
+    }  
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Clemson University",
+      "location": "Clemson, SC",
+      "url": "https://www.clemson.edu/science/academics/departments/mathstat/",
+      "area": "Mathematical Sciences",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "endDate": "2009"
+    },
+    {
+      "institution": "Clemson University",
+      "location": "Clemson, SC",
+      "url": "https://www.clemson.edu/science/academics/departments/mathstat/",
+      "area": "Mathematical Sciences",
+      "studyType": "MS",
+      "endDate": "2006"
+    },
+    {
+      "institution": "Duke University",
+      "location": "Durham, NC",
+      "url": "https://math.duke.edu/",
+      "area": "Mathematics",
+      "studyType": "BS",
+      "endDate": "2004"
+    },
+    {
+      "institution": "Duke University",
+      "location": "Durham, NC",
+      "url": "https://econ.duke.edu/",
+      "area": "Economics",
+      "studyType": "BS",
+      "endDate": "2004"
     }
   ],
   "awards": [
@@ -65,50 +113,6 @@
       "awarder": "Royal Swedish Academy of Sciences",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
