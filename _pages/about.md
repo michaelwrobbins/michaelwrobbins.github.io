@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Bio
 permalink: /
 subtitle: Senior Statistician with the <a href='https://www.rand.org/statistics.html'>Statistics Group</a> at RAND Corporation.
 
