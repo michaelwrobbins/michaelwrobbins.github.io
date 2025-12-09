@@ -5,7 +5,7 @@
 # academia_edu:  your organization and your username Ex. https://organization.academia.edu/UserName
 #  organization: princeton # your organization as appears in the subdomain
 #  username:  AlbertEinstein # your username
-cv_pdf: /assets/pdf/CV_Public.pdf # path to your CV PDF file
+# cv_pdf: /assets/pdf/CV_Public.pdf # path to your CV PDF file
 email: mrobbins@rand.org # your email address
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
