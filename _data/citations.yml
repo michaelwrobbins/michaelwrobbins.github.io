@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-12'
+  last_updated: '2025-12-24'
 papers:
   AHDTtwgAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -174,7 +174,7 @@ papers:
     title: '2018 Health Related Behaviors Survey: Comparing the Active and Reserve Components'
     year: '2021'
   AHDTtwgAAAAJ:SP6oXDckpogC:
-    citations: 95
+    citations: 94
     title: '2018 Department of Defense Health Related Behaviors Survey (HRBS): results for the active component'
     year: '2021'
   AHDTtwgAAAAJ:Se3iqnhoufwC:
@@ -218,7 +218,7 @@ papers:
     title: Home health agency adoption of quality improvement activities and association with performance
     year: '2021'
   AHDTtwgAAAAJ:Wp0gIr-vW9MC:
-    citations: 42
+    citations: 43
     title: A general regression changepoint test for time series data
     year: '2016'
   AHDTtwgAAAAJ:Y0pCki6q_DkC:
@@ -234,7 +234,7 @@ papers:
     title: 'Assessing the Health Readiness of Active Component Sailors: Results from Navy Respondents to the HRBS'
     year: '2021'
   AHDTtwgAAAAJ:YsMSGLbcyi4C:
-    citations: 104
+    citations: 105
     title: Mean shift testing in correlated data
     year: '2011'
   AHDTtwgAAAAJ:ZHo1McVdvXMC:
@@ -258,7 +258,7 @@ papers:
     title: 'Microsynth: synthetic control methods for disaggregated and micro-level data in R'
     year: '2021'
   AHDTtwgAAAAJ:_kc_bZDykSQC:
-    citations: 208
+    citations: 209
     title: 'A framework for synthetic control methods with high-dimensional, micro-level data: evaluating a neighborhood-specific crime intervention'
     year: '2017'
   AHDTtwgAAAAJ:_xSYboBqXhAC:
@@ -334,11 +334,11 @@ papers:
     title: A flexible and efficient algorithm for joint imputation of general data
     year: '2020'
   AHDTtwgAAAAJ:hC7cP41nSMkC:
-    citations: 92
+    citations: 93
     title: Nonparametric estimation of population average dose-response curves using entropy balancing weights for continuous exposures
     year: '2021'
   AHDTtwgAAAAJ:hFOr9nPyWt4C:
-    citations: 40
+    citations: 41
     title: RAND American educator panels technical description
     year: '2020'
   AHDTtwgAAAAJ:hMod-77fHWUC:
@@ -418,7 +418,7 @@ papers:
     title: 'Moving from efficacy to effectiveness: Implementing the drug market intervention across multiple sites'
     year: '2017'
   AHDTtwgAAAAJ:qxL8FJ1GzNcC:
-    citations: 167
+    citations: 168
     title: 'Hidden heroes: America''s military caregivers'
     year: '2014'
   AHDTtwgAAAAJ:r0BpntZqJG4C:
