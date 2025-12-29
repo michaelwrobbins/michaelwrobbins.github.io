@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-24'
+  last_updated: '2025-12-29'
 papers:
   AHDTtwgAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -102,7 +102,7 @@ papers:
     title: "Hidden heroes: America's military caregivers\u2014executive summary"
     year: '2014'
   AHDTtwgAAAAJ:KlAtU1dfN6UC:
-    citations: 108
+    citations: 109
     title: Changepoint detection in climate time series with long-term trends
     year: '2013'
   AHDTtwgAAAAJ:KxtntwgDAa4C:
@@ -174,7 +174,7 @@ papers:
     title: '2018 Health Related Behaviors Survey: Comparing the Active and Reserve Components'
     year: '2021'
   AHDTtwgAAAAJ:SP6oXDckpogC:
-    citations: 94
+    citations: 95
     title: '2018 Department of Defense Health Related Behaviors Survey (HRBS): results for the active component'
     year: '2021'
   AHDTtwgAAAAJ:Se3iqnhoufwC:
@@ -221,6 +221,10 @@ papers:
     citations: 43
     title: A general regression changepoint test for time series data
     year: '2016'
+  AHDTtwgAAAAJ:XiSMed-E-HIC:
+    citations: 0
+    title: 'Stay Tuned: Improving Sentiment Analysis and Stance Detection Using Large Language Models'
+    year: '2025'
   AHDTtwgAAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: "Supplementary Material for \u201CA framework for synthetic control methods with high-dimensional, micro-level data: Evaluating a neighborhood-specific crime intervention\u201D"
@@ -334,7 +338,7 @@ papers:
     title: A flexible and efficient algorithm for joint imputation of general data
     year: '2020'
   AHDTtwgAAAAJ:hC7cP41nSMkC:
-    citations: 93
+    citations: 94
     title: Nonparametric estimation of population average dose-response curves using entropy balancing weights for continuous exposures
     year: '2021'
   AHDTtwgAAAAJ:hFOr9nPyWt4C:
