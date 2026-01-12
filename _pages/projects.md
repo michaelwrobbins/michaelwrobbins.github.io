@@ -2,9 +2,9 @@
 layout: page
 title: Research
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
-nav_order: null
+description: Research descriptions.
+nav: true
+nav_order: 5
 display_categories: [work, fun]
 horizontal: false
 ---
