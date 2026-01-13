@@ -1,81 +1,25 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Causal Inference
+description: 
+img: 
 importance: 3
-category: work
+category: Topics
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Causal inference has constituted a substantial portion of my research profile since I joined RAND. Early in my RAND career, I built on knowledge of survey methodologies to develop a new approach for synthetic control procedures. Specifically, in the estimation of the effect of a neighborhood-based drug market intervention, I extended the existing synthetic control toolkit to capitalize on data that are disaggregated spatially and employed survey methodologies to calculate weights and uncertainty {% cite jasa17 %}. This procedure was made available in the R package <code>microsynth</code> {% cite jss21 micro25 %}. This method and software has been used in several collaborative projects where I have served as a contributing author {% cite cpp17, addict21, jqc25 %}.<br>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+I was also awarded a competitive NIH grant through the National Institute on Aging (R21AG058123, \$380,529), the goal of which was to develop statistical procedures that could be used to assess the long-term effects of a program or intervention in the short term. This work resulted in a data fusion method that uses imputation to combine a dataset indicating the effects of the program on short-term outcomes with a separate dataset that could establish the link between short- and long-term outcomes {% cite sim24 %}. This technique was used to evaluate the effect of the Oregon Health Insurance Experiment on long-term mortality {% cite sim24 %} and individual-level economic indicators such as housing equity. Further theoretical work was also made possible by this grant {% cite biomet25 %}.<br>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I have also produced other research on statistical methods for causal inference, including the use of kernel densities to estimate inverse probability weights for longitudinal evaluations of environmental exposures at the neighborhood level {% cite sim20 %}, weighting through entropy balancing to evaluate continuous treatments {% cite hsorm21 %}, and techniques to combine propensity score weights with sampling, non-response, and/or attrition weights {% cite sim24a %}.<br>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+<strong>Collaborators:</strong>
+<ul>
+  <li><a href="https://hsph.harvard.edu/profile/sebastian-bauhoff/">Sebastian Bauhoff</a>, Inter-American Development Bank</li>
+  <li><a href="https://www.rand.org/about/people/b/burgette_lane_f.html">Lane Burgette</a>, RAND Corporation</li>
+  <li><a href="https://www.rand.org/about/people/g/griffin_beth_ann.html">Beth Ann Griffin</a>, RAND Corporation</li>
+  <li><a href="https://www.rand.org/about/people/k/kilmer_beau.html">Beau Kilmer</a>, RAND Corporation</li>
+  <li><a href="https://scholar.google.com/citations?user=jtVZulAAAAAJ&hl=en">Brian Vegetabile</a>, LinkedIn</li>
+</ul>
+<br>
