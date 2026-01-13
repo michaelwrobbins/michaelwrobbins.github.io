@@ -4,7 +4,7 @@ title: microsynth
 description:
 img: assets/img/Rlogo.svg
 importance: 7
-category: Code
+category: Software
 related_publications: true
 ---
 
