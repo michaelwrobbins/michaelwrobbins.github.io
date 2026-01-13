@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /projects/
-description: Research descriptions.
+description: Research topics, software, and grants.
 nav: true
 nav_order: 5
 display_categories: [Topics, Software, Grants]
