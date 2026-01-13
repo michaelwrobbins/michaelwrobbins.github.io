@@ -4,7 +4,7 @@ title: Time Series Analysis
 description: 
 img: 
 importance: 1
-category: work
+category: Topics
 related_publications: true
 ---
 
