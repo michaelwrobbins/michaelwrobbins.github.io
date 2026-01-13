@@ -1,81 +1,25 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Missing Data
+description: 
+img: 
 importance: 2
-category: work
-giscus_comments: true
+category: Topics
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+My postdoctoral work involved the creation of an algorithm for imputation of missing data in a large agricultural survey (i.e., the USDA's Agricultural Resource Management Survey). This work presented unique challenges due to the size and distributional structure of the dataset, and yielded several publications {% cite ajae11 jasa13 arer14 jos14 %}. The resulting algorithm contained several novel characteristics to facilitate theoretically valid and computationally efficient imputation with complex data, including copula modeling via transformation using empirical distributions, creative use of the SWEEP operator to improve efficiency, and construction of a joint model via a sequence of selected conditional models.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Motivated by specific issues encountered when performing imputation in a large Department of Defense survey while at RAND, I later generalized the above procedure to produce the GERBIL algorithm {% cite jssm24 %}, which is available in the R package <code>gerbil</code> {% cite gerbil23 %}. By using a latent multivariate Gaussian model with probit-type assumptions for non-continuous variables, this method can create imputations in data of a general form (with continuous, binary, unordered categorical and ordinal variables) while using joint modeling in a highly computationally efficient manner and enables flexibility when constructing the imputation model. It is shown to outperform other state-of-the-art procedures in terms of both quality of imputations and computational burden. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Variance estimation in the presence of imputed data typically relies on algebraic expressions and the validity of multiple imputation combining rules. To improve the utility of imputed data in a more broad array of settings, I recently developed the theory that underpins the use of resampling procedures such as a bootstrap or jackknife with imputed data {% cite biomet25 %}. This work illustrates the vast computation burden required for resampling procedures with imputed data, which emphasizes the value in efficient algorithms such as <code>gerbil</code>. 
+<br>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+<strong>Collaborators:</strong>
+<ul>
+  <li><a href="https://www.rand.org/about/people/b/burgette_lane_f.html">Lane Burgette</a>, RAND Corporation</li>
+  <li><a href="https://statistics.sciences.ncsu.edu/people/sghosh2/">Sujit Ghosh</a>, NC State University</li>
+  <li><a href="https://experts.okstate.edu/jhabige">Joshua Habiger</a>, Oklahoma State University</li>
+  <li><a href="https://sites.google.com/site/tkirkwhite/">Kirk Whited</a>, Census Bureau</li>
+</ul>
+<br>
