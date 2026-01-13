@@ -15,7 +15,6 @@ While at RAND, I developed familiarity with and expertise using survey panels. M
   <li><a href="https://www.rand.org/about/people/g/ghosh-dastidar_bonnie.html">Bonnie Ghosh-Dastidar</a>, RAND Corporation</li>
   <li><a href="https://www.rand.org/about/people/g/grant_david.html">David Grant</a>, RAND Corporation</li>
   <li><a href="https://www.rand.org/pubs/authors/h/hawes-dawson_jennifer.html">Jennifer Hawes-Dawson</a>, RAND Corporation</li>
-  <li><a href="https://www.rand.org/about/people/p/pollard_michael_s.html">Michael Pollard</a>, RAND Corporation</li>
   <li><a href="https://www.rajeevramchand.com/">Rajeev Ramchand</a>, RAND Corporation</li>
   <li><a href="https://www.rand.org/pubs/authors/s/stecher_brian_m.html">Brian Stetcher</a>, RAND Corporation</li>
 </ul>
