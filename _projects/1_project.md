@@ -14,6 +14,7 @@ I established a research agenda that involved modification of these methods for 
 
 <strong>Collaborators:</strong>
 <ul>
+  <li><a href="https://anson.ucdavis.edu/~alexaue/">Alexander Aue</a>, University of California, Davis</li>
   <li><a href="https://tjfisher19.github.io/">Thomas Fisher</a>, Miami University</li>
   <li><a href="https://www.math.clemson.edu/~cgallag/">Colin Gallagher</a>, Clemson University</li>
   <li><a href="https://scholar.google.com/citations?user=6rejz8EAAAAJ&hl=en">Robert Lund</a>, University of California, Santa Cruz</li>
