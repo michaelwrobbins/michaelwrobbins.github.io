@@ -1,80 +1,25 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Nonprobability Methods
+description:
 img:
-importance: 3
-category: fun
+importance: 4
+category: Topics
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Early in my tenure at RAND, I helped to develop methods for blending probability and nonprobability data. High quality sources of data for surveys (i.e., probability samples) often do not yield large enough samples when a remote segment of a population is targeted, and researchers often attempt to supplement those through nonprobability convenience samples. I originally explored these approaches for application to a survey of caregivers of veterans of the US Armed Forces who served following September 11, 2001--using a convenience sample of caregivers taken from the Wounded Warrior project {% cite jssm21 %}.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Motivated by the potential utility of nonprobability data, I was awarded a competitive NSF grant (Award #1837959, $991,127) to explore methods for producing generalizable inferences from highly non-representative big data sources (e.g., social media). The proposed case study involved using data from Twitter (i.e., tweets) to gauge public opinion on political candidates in real time during an election cycle. The difficulty of generalizing users of Twitter to a broader population is rooted in the fact that little is known about them---basic demographic characteristics that are usually used to develop survey weights (such as gender, age, race, education, etc.) are unknown for Twitter users. The proposed work involved designing and administering a survey to both a probability sample of the US population (collected through the NORC AmeriSpeak Panel) and a convenience sample of Twitter users (collected using a targeted advertising campaign on Twitter). The survey collected basic demographics along with political beliefs and social media usage patterns for the respondents.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+First, the research team, which I assembled and led, applied the methods outlined in {% cite jssm21 %} to illustrate that it is possible to adjust the Twitter convenience sample to be representative of the broader population of US adults. We then used information available for all twitter users (i.e., their user profile and tweets) to develop proxies for their demographic and related characteristics. These proxies are developed by using regularized regression with survey characteristics as outcomes and 100,000+ indicators derived from the user profiles and tweets as predictors and are shown to closely replicate the intended characteristics. The Twitter sample when weighted to generalize to the broader population can be used to derive population benchmarks for these proxy variables. We then collected a "universe" of tens of thousands of Twitter users and employed sentiment analysis to quantify the degree of approval or disapproval expressed in their tweets towards presidential candidates in the 2020 election cycle. Fine-tuned large language models were shown to be highly effective at capturing benchmark sentiment scores {% cite pa25 %}. Using the population benchmarks of the proxy variables, the Twitter universe was weighted to generalize to the US adult population, enabling us to develop a Twitter-based estimate of political approval scores that is argued to be representative of the US adult population and can be tracked over time throughout an election cycle. We illustrated that this score (calculated using the weighted universe) mimics contemporaneous public opinion polling but is more responsive to major events such as presidential debates and the Capitol Hill riots of January 6, 2021.<br>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+<strong>Collaborators:</strong>
+<ul>
+  <li><a href="https://www.rand.org/about/people/g/ghosh-dastidar_bonnie.html">Bonnie Ghosh-Dastidar</a>, RAND Corporation</li>
+  <li><a href="https://scholar.google.com/citations?user=grBYjVUAAAAJ&hl=en">Max Griswold</a>, King County DCHS</li>
+  <li><a href="https://www.rand.org/about/people/p/pollard_michael_s.html">Michael Pollard</a>, RAND Corporation</li>
+  <li><a href="https://www.rajeevramchand.com/">Rajeev Ramchand</a>, RAND Corporation</li>
+</ul>
+<br>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
