@@ -5,7 +5,7 @@ permalink: /projects/
 description: Research descriptions.
 nav: true
 nav_order: 5
-display_categories: [work, fun]
+display_categories: [Topics, Software, Grants]
 horizontal: false
 ---
 
