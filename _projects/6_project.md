@@ -1,80 +1,28 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Collaborative Work
+description:
 img:
-importance: 4
-category: fun
+importance: 6
+category: Topics
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+My employment at RAND has afforded me the opportunity to perform collaborative work with multidisciplinary teams across a variety of scientific fields. I have collaborated on a substantial amount of biomedical work, much of which has been published {% cite medcare14 ajmc17 perm17 mc17 joem17 mn18 mn20 jags20 mn20a jags21 ajmc21 mn23 %}. I also collaborated across RAND's Federally Funded Research and Development Centers---this work is often precluded from public release, although some of it has appeared in scientific journals {% cite jhsem25 mps25 %}. Furthermore, I co-led a sequence of projects sponsored by the Transportation Security Administration to investigate statistical and practical aspects of covert testing at airport screening locations---of this, one report was cleared for public release {% cite tsa25 %}. My collaborative work, which spans many scientific disciplines and statistical sub-disciplines, resulted in dozens of other RAND reports which are outlined on my CV. It is also worth noting that much of my work has involved graduate students from the RAND School of Public Policy as lead author {% cite addict21 pa25 %} or as contributing author {% cite gerbil23 jss21 %}. <br>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+<strong>Collaborators:</strong>
+<ul>
+  <li><a href="https://scholar.google.com/citations?user=-4NxYogAAAAJ">Joseph Chang</a>, RAND Corporation</li>
+  <li><a href="https://www.rand.org/about/people/d/damberg_cheryl_l.html">Cheryl Damberg</a>, RAND Corporation</li>
+  <li><a href="https://scholar.google.com/citations?user=CzqLKmgAAAAJ">Steve Davenport</a>, Uber</li>
+  <li><a href="https://www.rand.org/about/people/d/dworsky_michael.html">Michael Dworsky</a>, RAND Corporation</li>
+  <li><a href="https://scholar.google.com/citations?user=grBYjVUAAAAJ&hl=en">Max Griswold</a>, King County DCHS</li>
+  <li><a href="https://scholar.google.com/citations?user=Mk1knqwAAAAJ">Harry Liu</a>, Baylor Scott & White Health</li>
+  <li><a href="https://researchers.cedars-sinai.edu/Teryl.Nuckols">Teryl Nuckols</a>, Cedars-Sinai Medical Center</li>
+  <li><a href="https://www.rand.org/about/people/p/pollard_michael_s.html">Michael Pollard</a>, RAND Corporation</li>
+  <li><a href="https://mapri.kaiserpermanente.org/staff-member/roblin-doug/">Douglas Roblin</a>, Kaiser Permanente</li>
+  <li><a href="https://www.rand.org/about/people/s/setodji_claude.html">Claude Setodji</a>, RAND Corporation</li>
+  <li><a href="https://www.rand.org/about/people/s/shetty_kanaka.html">Kanaka Shetty</a>, RAND Corporation</li>
+  <li><a href="https://www.rand.org/about/people/t/treyger_elina.html">Elina Treyger</a>, RAND Corporation</li>
+</ul>
+<br>
