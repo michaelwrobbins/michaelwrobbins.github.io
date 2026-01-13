@@ -20,6 +20,6 @@ Variance estimation in the presence of imputed data typically relies on algebrai
   <li><a href="https://www.rand.org/about/people/b/burgette_lane_f.html">Lane Burgette</a>, RAND Corporation</li>
   <li><a href="https://statistics.sciences.ncsu.edu/people/sghosh2/">Sujit Ghosh</a>, NC State University</li>
   <li><a href="https://experts.okstate.edu/jhabige">Joshua Habiger</a>, Oklahoma State University</li>
-  <li><a href="https://sites.google.com/site/tkirkwhite/">Kirk Whited</a>, Census Bureau</li>
+  <li><a href="https://sites.google.com/site/tkirkwhite/">Kirk White</a>, Census Bureau</li>
 </ul>
 <br>
