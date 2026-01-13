@@ -20,6 +20,7 @@ I have also produced other research on statistical methods for causal inference,
   <li><a href="https://www.rand.org/about/people/b/burgette_lane_f.html">Lane Burgette</a>, RAND Corporation</li>
   <li><a href="https://www.rand.org/about/people/g/griffin_beth_ann.html">Beth Ann Griffin</a>, RAND Corporation</li>
   <li><a href="https://www.rand.org/about/people/k/kilmer_beau.html">Beau Kilmer</a>, RAND Corporation</li>
+  <li><a href="https://www-vantage-qa2-publish.ets.org/research/author-bio/McCaffrey--Daniel-F.html">Dan McCaffrey</a>, ETS</li>
   <li><a href="https://scholar.google.com/citations?user=jtVZulAAAAAJ&hl=en">Brian Vegetabile</a>, LinkedIn</li>
 </ul>
 <br>
