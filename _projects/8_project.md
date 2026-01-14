@@ -8,7 +8,7 @@ category: Software
 related_publications: true
 ---
 
-<div style="font-size: 150%;"><code>Generalized Efficient Regression-Based Imputation with Latent Processes</code></div>
+<div style="font-size: 150%;"><code>Generalized Efficient Regression-Based Imputation with Latent Processes</code></div><br>
 
 The R package <code>gerbil</code> {% cite gerbil23 %} implements a new multiple imputation method that draws imputations from a latent joint multivariate normal model which underpins generally structured data. This model is constructed using a sequence of flexible conditional linear models that enables the resulting procedure to be efficiently implemented on high dimensional datasets in practice.<br>
 
