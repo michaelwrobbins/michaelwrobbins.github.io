@@ -4,7 +4,7 @@ title: Research
 permalink: /projects/
 description: Research topics, software, and grants.
 nav: true
-nav_order: 2
+nav_order: 1
 display_categories: [Topics, Software, Grants]
 horizontal: false
 ---
