@@ -24,6 +24,7 @@ I have also produced other research on statistical methods for causal inference,
   <li><a href="https://www-vantage-qa2-publish.ets.org/research/author-bio/McCaffrey--Daniel-F.html">Dan McCaffrey</a>, ETS</li>
   <li><a href="https://scholar.google.com/citations?user=2PrvEnQAAAAJ">Roland Neil</a>, RAND Corporation</li>
   <li><a href="https://csgjusticecenter.org/people/jessica-saunders/">Jessica Saunders</a>, The Council of State Governments Justice Center</li>
+  <li><a href="https://sph.emory.edu/profile/faculty/regina-shih">Regina Shih</a>, Emory University</li>
   <li><a href="https://scholar.google.com/citations?user=jtVZulAAAAAJ">Brian Vegetabile</a>, LinkedIn</li>
 </ul>
 <br>
