@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-16'
+  last_updated: '2026-01-19'
 papers:
   AHDTtwgAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -102,7 +102,7 @@ papers:
     title: "Hidden heroes: America's military caregivers\u2014executive summary"
     year: '2014'
   AHDTtwgAAAAJ:KlAtU1dfN6UC:
-    citations: 109
+    citations: 110
     title: Changepoint detection in climate time series with long-term trends
     year: '2013'
   AHDTtwgAAAAJ:KxtntwgDAa4C:
@@ -238,7 +238,7 @@ papers:
     title: 'Assessing the Health Readiness of Active Component Sailors: Results from Navy Respondents to the HRBS'
     year: '2021'
   AHDTtwgAAAAJ:YsMSGLbcyi4C:
-    citations: 105
+    citations: 106
     title: Mean shift testing in correlated data
     year: '2011'
   AHDTtwgAAAAJ:ZHo1McVdvXMC:
@@ -262,7 +262,7 @@ papers:
     title: 'Microsynth: synthetic control methods for disaggregated and micro-level data in R'
     year: '2021'
   AHDTtwgAAAAJ:_kc_bZDykSQC:
-    citations: 212
+    citations: 213
     title: 'A framework for synthetic control methods with high-dimensional, micro-level data: evaluating a neighborhood-specific crime intervention'
     year: '2017'
   AHDTtwgAAAAJ:_xSYboBqXhAC:
@@ -290,7 +290,7 @@ papers:
     title: A cheap trick to improve the power of a conservative hypothesis test
     year: '2019'
   AHDTtwgAAAAJ:bFI3QPDXJZMC:
-    citations: 2
+    citations: 3
     title: Perceptions of Mental Health Confidentiality Policies and Practices in the US Military
     year: '2025'
   AHDTtwgAAAAJ:blknAaTinKkC:
@@ -342,11 +342,11 @@ papers:
     title: Nonparametric estimation of population average dose-response curves using entropy balancing weights for continuous exposures
     year: '2021'
   AHDTtwgAAAAJ:hFOr9nPyWt4C:
-    citations: 40
+    citations: 41
     title: RAND American educator panels technical description
     year: '2020'
   AHDTtwgAAAAJ:hMod-77fHWUC:
-    citations: 3
+    citations: 4
     title: 'Change-point analysis: Asymptotic theory and applications'
     year: '2009'
   AHDTtwgAAAAJ:hqOjcs7Dif8C:
@@ -370,7 +370,7 @@ papers:
     title: 'Military Mental Health Care: Provider Perspectives on Treating PTSD and Depression'
     year: '2017'
   AHDTtwgAAAAJ:k_IJM867U9cC:
-    citations: 16
+    citations: 15
     title: 'The quality of electrodiagnostic tests for carpal tunnel syndrome: Implications for surgery, outcomes, and expenditures'
     year: '2020'
   AHDTtwgAAAAJ:lSLTfruPkqcC:
