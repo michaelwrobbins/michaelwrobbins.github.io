@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Collaborative Work
+title: Collaborative Research
 description:
 img:
 importance: 6
