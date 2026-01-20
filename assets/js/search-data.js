@@ -434,8 +434,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-collaborative-work",
-          title: 'Collaborative Work',
+            },},{id: "projects-collaborative-research",
+          title: 'Collaborative Research',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
