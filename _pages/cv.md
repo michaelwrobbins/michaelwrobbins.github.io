@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV and R&eacute;sum&eacute;
+title: CV/R&eacute;sum&eacute;
 titlea: Curriculum Vitae
 titleb: Two-Page R&eacute;sum&eacute;
 nav: true
