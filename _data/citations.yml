@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-13'
+  last_updated: '2026-02-20'
 papers:
   AHDTtwgAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -9,10 +9,6 @@ papers:
     citations: 0
     title: 'Therapeutic Measures Required: To Ensure Millions of Veterans and Their Families Get High-Quality Care, Community Mental Health Providers Need More Training, Support, Resources'
     year: '2014'
-  AHDTtwgAAAAJ:1sJd4Hv_s6UC:
-    citations: 0
-    title: 'Journal of homeland security and emergency management: Quasi-Experimental Evaluations of Border-Enforcement Measures'
-    year: '2025'
   AHDTtwgAAAAJ:3fE2CSJIrl8C:
     citations: 0
     title: Interactive Pardee RAND Food-Energy-Water Security Index
@@ -50,7 +46,7 @@ papers:
     title: Support Resources for Military Caregivers
     year: '2014'
   AHDTtwgAAAAJ:9ZlFYXVOiuMC:
-    citations: 83
+    citations: 81
     title: Changepoints in the North Atlantic tropical cyclone record
     year: '2011'
   AHDTtwgAAAAJ:9yKSN-GCB0IC:
@@ -94,11 +90,11 @@ papers:
     title: A fully flexible changepoint test for regression models with stationary errors
     year: '2020'
   AHDTtwgAAAAJ:JV2RwH3_ST0C:
-    citations: 8
+    citations: 7
     title: The utility of nonparametric transformations for imputation of survey data
     year: '2014'
   AHDTtwgAAAAJ:J_g5lzvAfSwC:
-    citations: 18
+    citations: 19
     title: "Hidden heroes: America's military caregivers\u2014executive summary"
     year: '2014'
   AHDTtwgAAAAJ:KlAtU1dfN6UC:
@@ -166,7 +162,7 @@ papers:
     title: '2018 Health Related Behaviors Survey: Mental and Emotional Health Among the Active Component'
     year: '2021'
   AHDTtwgAAAAJ:RHpTSmoSYBkC:
-    citations: 1
+    citations: 0
     title: Interactive Pardee RAND Food-Energy-Water Security Index
     year: '2024'
   AHDTtwgAAAAJ:RYcK_YlVTxYC:
@@ -174,7 +170,7 @@ papers:
     title: '2018 Health Related Behaviors Survey: Comparing the Active and Reserve Components'
     year: '2021'
   AHDTtwgAAAAJ:SP6oXDckpogC:
-    citations: 95
+    citations: 103
     title: '2018 Department of Defense Health Related Behaviors Survey (HRBS): results for the active component'
     year: '2021'
   AHDTtwgAAAAJ:Se3iqnhoufwC:
@@ -182,7 +178,7 @@ papers:
     title: An improved measure for lack of fit in time series models
     year: '2018'
   AHDTtwgAAAAJ:SeFeTyx0c_EC:
-    citations: 48
+    citations: 49
     title: Changepoint detection in daily precipitation data
     year: '2012'
   AHDTtwgAAAAJ:TFP_iSt0sucC:
@@ -207,11 +203,11 @@ papers:
     year: '2015'
   AHDTtwgAAAAJ:UxriW0iASnsC:
     citations: 1
-    title: "Benchmarking the Transportation Security Administration\u2019s Covert Index Testing Program"
+    title: "Benchmarking the Transportation Security Administration\u2019s covert index testing program"
     year: '2025'
   AHDTtwgAAAAJ:W7OEmFMy1HYC:
     citations: 4
-    title: Modeling the Impact of Border-Enforcement Measures
+    title: Modeling the Impact of Border-enforcement Measures
     year: '2020'
   AHDTtwgAAAAJ:WF5omc3nYNoC:
     citations: 3
@@ -238,7 +234,7 @@ papers:
     title: 'Assessing the Health Readiness of Active Component Sailors: Results from Navy Respondents to the HRBS'
     year: '2021'
   AHDTtwgAAAAJ:YsMSGLbcyi4C:
-    citations: 109
+    citations: 108
     title: Mean shift testing in correlated data
     year: '2011'
   AHDTtwgAAAAJ:ZHo1McVdvXMC:
@@ -262,7 +258,7 @@ papers:
     title: 'Microsynth: synthetic control methods for disaggregated and micro-level data in R'
     year: '2021'
   AHDTtwgAAAAJ:_kc_bZDykSQC:
-    citations: 214
+    citations: 219
     title: 'A framework for synthetic control methods with high-dimensional, micro-level data: evaluating a neighborhood-specific crime intervention'
     year: '2017'
   AHDTtwgAAAAJ:_xSYboBqXhAC:
@@ -278,7 +274,7 @@ papers:
     title: "Hidden Heroes: America's Military Caregivers\u2014Executive Summary"
     year: '2014'
   AHDTtwgAAAAJ:aqlVkmm33-oC:
-    citations: 17
+    citations: 18
     title: Farm commodity payments and imputation in the Agricultural Resource Management Survey
     year: '2011'
   AHDTtwgAAAAJ:b0M2c_1WBrUC:
@@ -302,7 +298,7 @@ papers:
     title: America's Post-9/11 Military and Veteran Caregivers
     year: '2024'
   AHDTtwgAAAAJ:d1gkVwhDpl0C:
-    citations: 47
+    citations: 46
     title: Blending probability and nonprobability samples with applications to a survey of military caregivers
     year: '2021'
   AHDTtwgAAAAJ:dfsIfKJdRG4C:
@@ -310,7 +306,7 @@ papers:
     title: Quasi-Experimental Evaluations of Border-Enforcement Measures
     year: '2025'
   AHDTtwgAAAAJ:dhFuZR0502QC:
-    citations: 4
+    citations: 5
     title: The effect of incentives and mode of contact on the recruitment of teachers into survey panels
     year: '2020'
   AHDTtwgAAAAJ:dshw04ExmUIC:
@@ -318,15 +314,15 @@ papers:
     title: 2018 Health Related Behaviors Survey Physical Health and Functional Limitations Among the Reserve Component
     year: '2021'
   AHDTtwgAAAAJ:e5wmG9Sq2KIC:
-    citations: 33
+    citations: 34
     title: Imputation in high-dimensional economic data as applied to the Agricultural Resource Management Survey
     year: '2013'
   AHDTtwgAAAAJ:eQOLeE2rZwMC:
-    citations: 27
+    citations: 26
     title: The impact of using mid-level providers in face-to-face primary care on health care utilization
     year: '2017'
   AHDTtwgAAAAJ:f2IySw72cVMC:
-    citations: 7
+    citations: 6
     title: 'Community planning and capacity building in Puerto rico after hurricane maria: predisaster conditions, hurricane damage, and courses of action'
     year: '2020'
   AHDTtwgAAAAJ:fPk4N6BV_jEC:
@@ -338,11 +334,11 @@ papers:
     title: A flexible and efficient algorithm for joint imputation of general data
     year: '2020'
   AHDTtwgAAAAJ:hC7cP41nSMkC:
-    citations: 96
+    citations: 95
     title: Nonparametric estimation of population average dose-response curves using entropy balancing weights for continuous exposures
     year: '2021'
   AHDTtwgAAAAJ:hFOr9nPyWt4C:
-    citations: 41
+    citations: 43
     title: RAND American educator panels technical description
     year: '2020'
   AHDTtwgAAAAJ:hMod-77fHWUC:
@@ -350,11 +346,11 @@ papers:
     title: 'Change-point analysis: Asymptotic theory and applications'
     year: '2009'
   AHDTtwgAAAAJ:hqOjcs7Dif8C:
-    citations: 17
+    citations: 16
     title: A comparison of strategies for recruiting teachers into survey panels
     year: '2018'
   AHDTtwgAAAAJ:iH-uZ7U-co4C:
-    citations: 18
+    citations: 17
     title: Cross-correlation matrices for tests of independence and causality between two multivariate time series
     year: '2015'
   AHDTtwgAAAAJ:isC4tDSrTZIC:
@@ -370,7 +366,7 @@ papers:
     title: 'Military Mental Health Care: Provider Perspectives on Treating PTSD and Depression'
     year: '2017'
   AHDTtwgAAAAJ:k_IJM867U9cC:
-    citations: 16
+    citations: 15
     title: 'The quality of electrodiagnostic tests for carpal tunnel syndrome: Implications for surgery, outcomes, and expenditures'
     year: '2020'
   AHDTtwgAAAAJ:lSLTfruPkqcC:
@@ -418,11 +414,11 @@ papers:
     title: Categorical Changepoints and their Application to Atlantic Tropical Cyclone Changes
     year: '2009'
   AHDTtwgAAAAJ:qjMakFHDy7sC:
-    citations: 31
+    citations: 30
     title: 'Moving from efficacy to effectiveness: Implementing the drug market intervention across multiple sites'
     year: '2017'
   AHDTtwgAAAAJ:qxL8FJ1GzNcC:
-    citations: 167
+    citations: 166
     title: 'Hidden heroes: America''s military caregivers'
     year: '2014'
   AHDTtwgAAAAJ:r0BpntZqJG4C:
