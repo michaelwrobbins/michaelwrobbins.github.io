@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-25'
+  last_updated: '2026-03-06'
 papers:
   AHDTtwgAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -26,7 +26,7 @@ papers:
     title: 'Assessing the Health Readiness of Marine Corps Reservists: Results from Marine Corps Reserve Respondents to the HRBS'
     year: '2021'
   AHDTtwgAAAAJ:4TOpqqG69KYC:
-    citations: 5
+    citations: 6
     title: Joint imputation of general data
     year: '2024'
   AHDTtwgAAAAJ:5nxA0vEk-isC:
@@ -98,7 +98,7 @@ papers:
     title: "Hidden heroes: America's military caregivers\u2014executive summary"
     year: '2014'
   AHDTtwgAAAAJ:KlAtU1dfN6UC:
-    citations: 111
+    citations: 112
     title: Changepoint detection in climate time series with long-term trends
     year: '2013'
   AHDTtwgAAAAJ:KxtntwgDAa4C:
@@ -185,6 +185,10 @@ papers:
     citations: 0
     title: The likelihood approach in precipitation change-point testing
     year: '2006'
+  AHDTtwgAAAAJ:Tiz5es2fbqcC:
+    citations: 2
+    title: "American\u2019s military caregivers"
+    year: '2014'
   AHDTtwgAAAAJ:Tyk-4Ss8FVUC:
     citations: 10
     title: 'Assessing the value of high-quality care for work-associated carpal tunnel syndrome in a large integrated health care system: study design'
@@ -298,7 +302,7 @@ papers:
     title: America's Post-9/11 Military and Veteran Caregivers
     year: '2024'
   AHDTtwgAAAAJ:d1gkVwhDpl0C:
-    citations: 46
+    citations: 47
     title: Blending probability and nonprobability samples with applications to a survey of military caregivers
     year: '2021'
   AHDTtwgAAAAJ:dfsIfKJdRG4C:
@@ -314,7 +318,7 @@ papers:
     title: 2018 Health Related Behaviors Survey Physical Health and Functional Limitations Among the Reserve Component
     year: '2021'
   AHDTtwgAAAAJ:e5wmG9Sq2KIC:
-    citations: 34
+    citations: 35
     title: Imputation in high-dimensional economic data as applied to the Agricultural Resource Management Survey
     year: '2013'
   AHDTtwgAAAAJ:eQOLeE2rZwMC:
@@ -334,7 +338,7 @@ papers:
     title: A flexible and efficient algorithm for joint imputation of general data
     year: '2020'
   AHDTtwgAAAAJ:hC7cP41nSMkC:
-    citations: 95
+    citations: 96
     title: Nonparametric estimation of population average dose-response curves using entropy balancing weights for continuous exposures
     year: '2021'
   AHDTtwgAAAAJ:hFOr9nPyWt4C:
