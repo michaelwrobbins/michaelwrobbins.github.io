@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-09'
+  last_updated: '2026-03-25'
 papers:
   AHDTtwgAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -37,6 +37,10 @@ papers:
     citations: 1
     title: 'Interactive Pardee RAND Food-Energy-Water Security Index: Updates as of 2023'
     year: '2024'
+  AHDTtwgAAAAJ:738O_yMBCRsC:
+    citations: 0
+    title: A Demonstration of Propensity-Score Weighting to Adjust a Social Media Nonprobability Sample Survey of Political Attitudes
+    year: '2026'
   AHDTtwgAAAAJ:7PzlFSSx8tAC:
     citations: 1
     title: 'Hidden Heroes: America''s Military Caregivers'
@@ -46,7 +50,7 @@ papers:
     title: Support Resources for Military Caregivers
     year: '2014'
   AHDTtwgAAAAJ:9ZlFYXVOiuMC:
-    citations: 81
+    citations: 82
     title: Changepoints in the North Atlantic tropical cyclone record
     year: '2011'
   AHDTtwgAAAAJ:9yKSN-GCB0IC:
@@ -98,7 +102,7 @@ papers:
     title: "Hidden heroes: America's military caregivers\u2014executive summary"
     year: '2014'
   AHDTtwgAAAAJ:KlAtU1dfN6UC:
-    citations: 112
+    citations: 113
     title: Changepoint detection in climate time series with long-term trends
     year: '2013'
   AHDTtwgAAAAJ:KxtntwgDAa4C:
@@ -170,7 +174,7 @@ papers:
     title: '2018 Health Related Behaviors Survey: Comparing the Active and Reserve Components'
     year: '2021'
   AHDTtwgAAAAJ:SP6oXDckpogC:
-    citations: 104
+    citations: 106
     title: '2018 Department of Defense Health Related Behaviors Survey (HRBS): results for the active component'
     year: '2021'
   AHDTtwgAAAAJ:Se3iqnhoufwC:
@@ -219,14 +223,14 @@ papers:
     year: '2021'
   AHDTtwgAAAAJ:WbkHhVStYXYC:
     citations: 0
-    title: Package {microsynth}
-    year: Unknown Year
+    title: "Package \u2018microsynth\u2019"
+    year: '2025'
   AHDTtwgAAAAJ:Wp0gIr-vW9MC:
     citations: 44
     title: A general regression changepoint test for time series data
     year: '2016'
   AHDTtwgAAAAJ:XiSMed-E-HIC:
-    citations: 0
+    citations: 1
     title: 'Stay Tuned: Improving Sentiment Analysis and Stance Detection Using Large Language Models'
     year: '2025'
   AHDTtwgAAAAJ:Y0pCki6q_DkC:
@@ -266,7 +270,7 @@ papers:
     title: 'Microsynth: synthetic control methods for disaggregated and micro-level data in R'
     year: '2021'
   AHDTtwgAAAAJ:_kc_bZDykSQC:
-    citations: 220
+    citations: 221
     title: 'A framework for synthetic control methods with high-dimensional, micro-level data: evaluating a neighborhood-specific crime intervention'
     year: '2017'
   AHDTtwgAAAAJ:_xSYboBqXhAC:
@@ -306,7 +310,7 @@ papers:
     title: America's Post-9/11 Military and Veteran Caregivers
     year: '2024'
   AHDTtwgAAAAJ:d1gkVwhDpl0C:
-    citations: 47
+    citations: 49
     title: Blending probability and nonprobability samples with applications to a survey of military caregivers
     year: '2021'
   AHDTtwgAAAAJ:dfsIfKJdRG4C:
@@ -342,7 +346,7 @@ papers:
     title: A flexible and efficient algorithm for joint imputation of general data
     year: '2020'
   AHDTtwgAAAAJ:hC7cP41nSMkC:
-    citations: 96
+    citations: 97
     title: Nonparametric estimation of population average dose-response curves using entropy balancing weights for continuous exposures
     year: '2021'
   AHDTtwgAAAAJ:hFOr9nPyWt4C:
@@ -408,7 +412,7 @@ papers:
   AHDTtwgAAAAJ:p2g8aNsByqUC:
     citations: 0
     title: Exploring Contraceptive Care and Access Experiences of Veterans
-    year: '2025'
+    year: '2026'
   AHDTtwgAAAAJ:pqnbT2bcN3wC:
     citations: 1
     title: Resampling methods with imputed data
@@ -430,7 +434,7 @@ papers:
     title: 'Hidden heroes: America''s military caregivers'
     year: '2014'
   AHDTtwgAAAAJ:r0BpntZqJG4C:
-    citations: 19
+    citations: 20
     title: Provider type and management of common visits in primary care
     year: '2017'
   AHDTtwgAAAAJ:rO6llkc54NcC:
