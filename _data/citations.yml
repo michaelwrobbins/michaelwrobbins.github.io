@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-25'
+  last_updated: '2026-04-03'
 papers:
   AHDTtwgAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -102,7 +102,7 @@ papers:
     title: "Hidden heroes: America's military caregivers\u2014executive summary"
     year: '2014'
   AHDTtwgAAAAJ:KlAtU1dfN6UC:
-    citations: 113
+    citations: 114
     title: Changepoint detection in climate time series with long-term trends
     year: '2013'
   AHDTtwgAAAAJ:KxtntwgDAa4C:
@@ -174,7 +174,7 @@ papers:
     title: '2018 Health Related Behaviors Survey: Comparing the Active and Reserve Components'
     year: '2021'
   AHDTtwgAAAAJ:SP6oXDckpogC:
-    citations: 106
+    citations: 105
     title: '2018 Department of Defense Health Related Behaviors Survey (HRBS): results for the active component'
     year: '2021'
   AHDTtwgAAAAJ:Se3iqnhoufwC:
@@ -266,7 +266,7 @@ papers:
     title: 'Supporting Military Caregivers: Options for Congress'
     year: '2014'
   AHDTtwgAAAAJ:_Qo2XoVZTnwC:
-    citations: 59
+    citations: 61
     title: 'Microsynth: synthetic control methods for disaggregated and micro-level data in R'
     year: '2021'
   AHDTtwgAAAAJ:_kc_bZDykSQC:
@@ -346,7 +346,7 @@ papers:
     title: A flexible and efficient algorithm for joint imputation of general data
     year: '2020'
   AHDTtwgAAAAJ:hC7cP41nSMkC:
-    citations: 97
+    citations: 98
     title: Nonparametric estimation of population average dose-response curves using entropy balancing weights for continuous exposures
     year: '2021'
   AHDTtwgAAAAJ:hFOr9nPyWt4C:
@@ -412,7 +412,7 @@ papers:
   AHDTtwgAAAAJ:p2g8aNsByqUC:
     citations: 0
     title: Exploring Contraceptive Care and Access Experiences of Veterans
-    year: '2026'
+    year: '2025'
   AHDTtwgAAAAJ:pqnbT2bcN3wC:
     citations: 1
     title: Resampling methods with imputed data
