@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-04-06'
 papers:
   AHDTtwgAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -266,7 +266,7 @@ papers:
     title: 'Supporting Military Caregivers: Options for Congress'
     year: '2014'
   AHDTtwgAAAAJ:_Qo2XoVZTnwC:
-    citations: 61
+    citations: 62
     title: 'Microsynth: synthetic control methods for disaggregated and micro-level data in R'
     year: '2021'
   AHDTtwgAAAAJ:_kc_bZDykSQC:
@@ -310,7 +310,7 @@ papers:
     title: America's Post-9/11 Military and Veteran Caregivers
     year: '2024'
   AHDTtwgAAAAJ:d1gkVwhDpl0C:
-    citations: 49
+    citations: 50
     title: Blending probability and nonprobability samples with applications to a survey of military caregivers
     year: '2021'
   AHDTtwgAAAAJ:dfsIfKJdRG4C:
@@ -412,7 +412,7 @@ papers:
   AHDTtwgAAAAJ:p2g8aNsByqUC:
     citations: 0
     title: Exploring Contraceptive Care and Access Experiences of Veterans
-    year: '2025'
+    year: '2026'
   AHDTtwgAAAAJ:pqnbT2bcN3wC:
     citations: 1
     title: Resampling methods with imputed data
@@ -430,7 +430,7 @@ papers:
     title: 'Moving from efficacy to effectiveness: Implementing the drug market intervention across multiple sites'
     year: '2017'
   AHDTtwgAAAAJ:qxL8FJ1GzNcC:
-    citations: 167
+    citations: 168
     title: 'Hidden heroes: America''s military caregivers'
     year: '2014'
   AHDTtwgAAAAJ:r0BpntZqJG4C:
