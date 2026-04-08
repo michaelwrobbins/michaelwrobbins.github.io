@@ -2,7 +2,7 @@
 layout: page
 title: gerbil
 description:
-img: assets/img/Rlogo.svg
+img: 
 importance: 8
 category: Software
 related_publications: true
