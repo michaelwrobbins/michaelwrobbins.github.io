@@ -2,7 +2,7 @@
 layout: page
 title: microsynth
 description:
-img: assets/img/Rlogo.svg
+img: 
 importance: 7
 category: Software
 related_publications: true
