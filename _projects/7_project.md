@@ -1,6 +1,6 @@
 ---
 layout: page
-title: microsynth
+title: <tt>microsynth</tt>
 description:
 img: 
 importance: 7
