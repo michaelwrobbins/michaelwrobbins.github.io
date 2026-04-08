@@ -1,6 +1,6 @@
 ---
 layout: page
-title: gerbil
+title: <tt>gerbil</tt>
 description:
 img: 
 importance: 8
