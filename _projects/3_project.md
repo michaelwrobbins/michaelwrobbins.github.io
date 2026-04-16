@@ -19,7 +19,7 @@ I have also produced other research on statistical methods for causal inference,
   <li><a href="https://hsph.harvard.edu/profile/sebastian-bauhoff/">Sebastian Bauhoff</a>, Inter-American Development Bank</li>
   <li><a href="https://www.rand.org/about/people/b/burgette_lane_f.html">Lane Burgette</a>, RAND Corporation</li>
   <li><a href="https://scholar.google.com/citations?user=CzqLKmgAAAAJ">Steve Davenport</a>, Uber</li>
-  <li><a href="https://src.isr.umich.edu/research/faculty-profiles/profiles/friedmanesther-m/">Esther Friedman, University of Michigan</li>
+  <li><a href="https://src.isr.umich.edu/research/faculty-profiles/profiles/friedmanesther-m/">Esther Friedman</a>, University of Michigan</li>
   <li><a href="https://www.rand.org/about/people/g/griffin_beth_ann.html">Beth Ann Griffin</a>, RAND Corporation</li>
   <li><a href="https://www.rand.org/about/people/k/kilmer_beau.html">Beau Kilmer</a>, RAND Corporation</li>
   <li><a href="https://www-vantage-qa2-publish.ets.org/research/author-bio/McCaffrey--Daniel-F.html">Dan McCaffrey</a>, ETS</li>
