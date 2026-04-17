@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-17'
 papers:
   AHDTtwgAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -101,6 +101,10 @@ papers:
     citations: 19
     title: "Hidden heroes: America's military caregivers\u2014executive summary"
     year: '2014'
+  AHDTtwgAAAAJ:K3LRdlH-MEoC:
+    citations: 0
+    title: Knowledge, Access and Choice of Contraceptives Among US Veterans
+    year: '2026'
   AHDTtwgAAAAJ:KlAtU1dfN6UC:
     citations: 114
     title: Changepoint detection in climate time series with long-term trends
@@ -198,7 +202,7 @@ papers:
     title: 'Assessing the value of high-quality care for work-associated carpal tunnel syndrome in a large integrated health care system: study design'
     year: '2016'
   AHDTtwgAAAAJ:ULOm3_A8WrAC:
-    citations: 1
+    citations: 2
     title: 'The quality of occupational healthcare for carpal tunnel syndrome, healthcare expenditures, and disability outcomes: A prospective observational study'
     year: '2023'
   AHDTtwgAAAAJ:UeHWp8X0CEIC:
@@ -230,7 +234,7 @@ papers:
     title: A general regression changepoint test for time series data
     year: '2016'
   AHDTtwgAAAAJ:XiSMed-E-HIC:
-    citations: 1
+    citations: 2
     title: 'Stay Tuned: Improving Sentiment Analysis and Stance Detection Using Large Language Models'
     year: '2025'
   AHDTtwgAAAAJ:Y0pCki6q_DkC:
@@ -310,7 +314,7 @@ papers:
     title: America's Post-9/11 Military and Veteran Caregivers
     year: '2024'
   AHDTtwgAAAAJ:d1gkVwhDpl0C:
-    citations: 50
+    citations: 51
     title: Blending probability and nonprobability samples with applications to a survey of military caregivers
     year: '2021'
   AHDTtwgAAAAJ:dfsIfKJdRG4C:
