@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-05-22'
 papers:
   AHDTtwgAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Hospital Quality Improvement Efforts and Performance on CMS Quality Measures
     year: '2018'
   AHDTtwgAAAAJ:4DMP91E08xMC:
-    citations: 3
+    citations: 4
     title: Estimating generalized propensity scores with survey and attrition weighted data
     year: '2024'
   AHDTtwgAAAAJ:4JMBOYKVnBMC:
@@ -50,7 +50,7 @@ papers:
     title: Support Resources for Military Caregivers
     year: '2014'
   AHDTtwgAAAAJ:9ZlFYXVOiuMC:
-    citations: 82
+    citations: 83
     title: Changepoints in the North Atlantic tropical cyclone record
     year: '2011'
   AHDTtwgAAAAJ:9yKSN-GCB0IC:
@@ -122,7 +122,7 @@ papers:
     title: "An Assessment of Imputation Methods for the USDA\u2019s Agricultural Resource Management Survey"
     year: '2010'
   AHDTtwgAAAAJ:M05iB0D1s5AC:
-    citations: 13
+    citations: 14
     title: "Assessment of the impact of implementation of a zero blood alcohol concentration law in Uruguay on moderate/severe injury and fatal crashes: a quasi\u2010experimental study"
     year: '2021'
   AHDTtwgAAAAJ:M3NEmzRMIkIC:
@@ -210,7 +210,7 @@ papers:
     title: Innovative Imputation Techniques Designed for the Agricultural Resource Management Survey
     year: '2010'
   AHDTtwgAAAAJ:UebtZRa9Y70C:
-    citations: 5
+    citations: 6
     title: A framework for synthetic control methods with high-dimensional, micro-level data
     year: '2015'
   AHDTtwgAAAAJ:UxriW0iASnsC:
@@ -270,11 +270,11 @@ papers:
     title: 'Supporting Military Caregivers: Options for Congress'
     year: '2014'
   AHDTtwgAAAAJ:_Qo2XoVZTnwC:
-    citations: 65
+    citations: 66
     title: 'Microsynth: synthetic control methods for disaggregated and micro-level data in R'
     year: '2021'
   AHDTtwgAAAAJ:_kc_bZDykSQC:
-    citations: 227
+    citations: 228
     title: 'A framework for synthetic control methods with high-dimensional, micro-level data: evaluating a neighborhood-specific crime intervention'
     year: '2017'
   AHDTtwgAAAAJ:_xSYboBqXhAC:
@@ -438,7 +438,7 @@ papers:
     title: 'Moving from efficacy to effectiveness: Implementing the drug market intervention across multiple sites'
     year: '2017'
   AHDTtwgAAAAJ:qxL8FJ1GzNcC:
-    citations: 170
+    citations: 169
     title: 'Hidden heroes: America''s military caregivers'
     year: '2014'
   AHDTtwgAAAAJ:r0BpntZqJG4C:
