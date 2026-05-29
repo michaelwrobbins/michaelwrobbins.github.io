@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-05-29'
 papers:
   AHDTtwgAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -50,7 +50,7 @@ papers:
     title: Support Resources for Military Caregivers
     year: '2014'
   AHDTtwgAAAAJ:9ZlFYXVOiuMC:
-    citations: 83
+    citations: 84
     title: Changepoints in the North Atlantic tropical cyclone record
     year: '2011'
   AHDTtwgAAAAJ:9yKSN-GCB0IC:
@@ -106,7 +106,7 @@ papers:
     title: Knowledge, Access and Choice of Contraceptives Among US Veterans
     year: '2026'
   AHDTtwgAAAAJ:KlAtU1dfN6UC:
-    citations: 114
+    citations: 116
     title: Changepoint detection in climate time series with long-term trends
     year: '2013'
   AHDTtwgAAAAJ:KxtntwgDAa4C:
@@ -210,7 +210,7 @@ papers:
     title: Innovative Imputation Techniques Designed for the Agricultural Resource Management Survey
     year: '2010'
   AHDTtwgAAAAJ:UebtZRa9Y70C:
-    citations: 6
+    citations: 5
     title: A framework for synthetic control methods with high-dimensional, micro-level data
     year: '2015'
   AHDTtwgAAAAJ:UxriW0iASnsC:
@@ -228,9 +228,9 @@ papers:
   AHDTtwgAAAAJ:WbkHhVStYXYC:
     citations: 0
     title: "Package \u2018microsynth\u2019"
-    year: '2026'
+    year: '2025'
   AHDTtwgAAAAJ:Wp0gIr-vW9MC:
-    citations: 44
+    citations: 45
     title: A general regression changepoint test for time series data
     year: '2016'
   AHDTtwgAAAAJ:XiSMed-E-HIC:
@@ -314,7 +314,7 @@ papers:
     title: America's Post-9/11 Military and Veteran Caregivers
     year: '2024'
   AHDTtwgAAAAJ:d1gkVwhDpl0C:
-    citations: 52
+    citations: 53
     title: Blending probability and nonprobability samples with applications to a survey of military caregivers
     year: '2021'
   AHDTtwgAAAAJ:dfsIfKJdRG4C:
@@ -434,7 +434,7 @@ papers:
     title: Categorical Changepoints and their Application to Atlantic Tropical Cyclone Changes
     year: '2009'
   AHDTtwgAAAAJ:qjMakFHDy7sC:
-    citations: 32
+    citations: 33
     title: 'Moving from efficacy to effectiveness: Implementing the drug market intervention across multiple sites'
     year: '2017'
   AHDTtwgAAAAJ:qxL8FJ1GzNcC:
@@ -453,8 +453,12 @@ papers:
     citations: 6
     title: What Supports Do Teachers Need to Help Students Meet Common Core State Standards for Mathematics?
     year: '2016'
+  AHDTtwgAAAAJ:tOudhMTPpwUC:
+    citations: 0
+    title: Contraceptive Knowledge and Related Factors Among Male and Female US Veterans of Reproductive Age
+    year: '2026'
   AHDTtwgAAAAJ:u-x6o8ySG0sC:
-    citations: 12
+    citations: 13
     title: "Robust estimation of the causal effect of time\u2010varying neighborhood factors on health outcomes"
     year: '2020'
   AHDTtwgAAAAJ:u5HHmVD_uO8C:
