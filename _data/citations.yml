@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-05'
 papers:
   AHDTtwgAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Hospital Quality Improvement Efforts and Performance on CMS Quality Measures
     year: '2018'
   AHDTtwgAAAAJ:4DMP91E08xMC:
-    citations: 4
+    citations: 5
     title: Estimating generalized propensity scores with survey and attrition weighted data
     year: '2024'
   AHDTtwgAAAAJ:4JMBOYKVnBMC:
@@ -274,7 +274,7 @@ papers:
     title: 'Microsynth: synthetic control methods for disaggregated and micro-level data in R'
     year: '2021'
   AHDTtwgAAAAJ:_kc_bZDykSQC:
-    citations: 228
+    citations: 229
     title: 'A framework for synthetic control methods with high-dimensional, micro-level data: evaluating a neighborhood-specific crime intervention'
     year: '2017'
   AHDTtwgAAAAJ:_xSYboBqXhAC:
@@ -388,7 +388,7 @@ papers:
   AHDTtwgAAAAJ:l7t_Zn2s7bgC:
     citations: 0
     title: 'Medicaid Home-Based and Community-Based Services Long-Term Care Expenditures: Evaluation of the Balancing Incentive Program'
-    year: Unknown Year
+    year: '2026'
   AHDTtwgAAAAJ:lSLTfruPkqcC:
     citations: 7
     title: 'Quality of electrodiagnostic testing for carpal tunnel syndrome: adherence to quality measures'
@@ -434,7 +434,7 @@ papers:
     title: Categorical Changepoints and their Application to Atlantic Tropical Cyclone Changes
     year: '2009'
   AHDTtwgAAAAJ:qjMakFHDy7sC:
-    citations: 32
+    citations: 33
     title: 'Moving from efficacy to effectiveness: Implementing the drug market intervention across multiple sites'
     year: '2017'
   AHDTtwgAAAAJ:qxL8FJ1GzNcC:
