@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-08'
 papers:
   AHDTtwgAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -150,7 +150,7 @@ papers:
     title: Promotion Benchmarks for Senior Officers with Joint and Acquisition Service
     year: '2016'
   AHDTtwgAAAAJ:OU6Ihb5iCvQC:
-    citations: 0
+    citations: 1
     title: Resampling methods with multiply imputed data
     year: '2025'
   AHDTtwgAAAAJ:P5F9QuxV20EC:
@@ -350,7 +350,7 @@ papers:
     title: A flexible and efficient algorithm for joint imputation of general data
     year: '2020'
   AHDTtwgAAAAJ:hC7cP41nSMkC:
-    citations: 98
+    citations: 99
     title: Nonparametric estimation of population average dose-response curves using entropy balancing weights for continuous exposures
     year: '2021'
   AHDTtwgAAAAJ:hFOr9nPyWt4C:
