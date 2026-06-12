@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-12'
 papers:
   AHDTtwgAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -182,11 +182,11 @@ papers:
     title: '2018 Department of Defense Health Related Behaviors Survey (HRBS): results for the active component'
     year: '2021'
   AHDTtwgAAAAJ:Se3iqnhoufwC:
-    citations: 7
+    citations: 8
     title: An improved measure for lack of fit in time series models
     year: '2018'
   AHDTtwgAAAAJ:SeFeTyx0c_EC:
-    citations: 49
+    citations: 50
     title: Changepoint detection in daily precipitation data
     year: '2012'
   AHDTtwgAAAAJ:TFP_iSt0sucC:
@@ -210,7 +210,7 @@ papers:
     title: Innovative Imputation Techniques Designed for the Agricultural Resource Management Survey
     year: '2010'
   AHDTtwgAAAAJ:UebtZRa9Y70C:
-    citations: 6
+    citations: 5
     title: A framework for synthetic control methods with high-dimensional, micro-level data
     year: '2015'
   AHDTtwgAAAAJ:UxriW0iASnsC:
@@ -228,9 +228,9 @@ papers:
   AHDTtwgAAAAJ:WbkHhVStYXYC:
     citations: 0
     title: "Package \u2018microsynth\u2019"
-    year: '2025'
+    year: '2026'
   AHDTtwgAAAAJ:Wp0gIr-vW9MC:
-    citations: 45
+    citations: 46
     title: A general regression changepoint test for time series data
     year: '2016'
   AHDTtwgAAAAJ:XiSMed-E-HIC:
@@ -442,7 +442,7 @@ papers:
     title: 'Hidden heroes: America''s military caregivers'
     year: '2014'
   AHDTtwgAAAAJ:r0BpntZqJG4C:
-    citations: 20
+    citations: 19
     title: Provider type and management of common visits in primary care
     year: '2017'
   AHDTtwgAAAAJ:rO6llkc54NcC:
