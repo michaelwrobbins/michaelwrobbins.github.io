@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-24'
 papers:
   AHDTtwgAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -122,7 +122,7 @@ papers:
     title: "An Assessment of Imputation Methods for the USDA\u2019s Agricultural Resource Management Survey"
     year: '2010'
   AHDTtwgAAAAJ:M05iB0D1s5AC:
-    citations: 14
+    citations: 13
     title: "Assessment of the impact of implementation of a zero blood alcohol concentration law in Uruguay on moderate/severe injury and fatal crashes: a quasi\u2010experimental study"
     year: '2021'
   AHDTtwgAAAAJ:M3NEmzRMIkIC:
@@ -210,7 +210,7 @@ papers:
     title: Innovative Imputation Techniques Designed for the Agricultural Resource Management Survey
     year: '2010'
   AHDTtwgAAAAJ:UebtZRa9Y70C:
-    citations: 5
+    citations: 6
     title: A framework for synthetic control methods with high-dimensional, micro-level data
     year: '2015'
   AHDTtwgAAAAJ:UxriW0iASnsC:
@@ -270,7 +270,7 @@ papers:
     title: 'Supporting Military Caregivers: Options for Congress'
     year: '2014'
   AHDTtwgAAAAJ:_Qo2XoVZTnwC:
-    citations: 66
+    citations: 67
     title: 'Microsynth: synthetic control methods for disaggregated and micro-level data in R'
     year: '2021'
   AHDTtwgAAAAJ:_kc_bZDykSQC:
@@ -330,7 +330,7 @@ papers:
     title: 2018 Health Related Behaviors Survey Physical Health and Functional Limitations Among the Reserve Component
     year: '2021'
   AHDTtwgAAAAJ:e5wmG9Sq2KIC:
-    citations: 34
+    citations: 35
     title: Imputation in high-dimensional economic data as applied to the Agricultural Resource Management Survey
     year: '2013'
   AHDTtwgAAAAJ:eQOLeE2rZwMC:
@@ -350,7 +350,7 @@ papers:
     title: A flexible and efficient algorithm for joint imputation of general data
     year: '2020'
   AHDTtwgAAAAJ:hC7cP41nSMkC:
-    citations: 99
+    citations: 100
     title: Nonparametric estimation of population average dose-response curves using entropy balancing weights for continuous exposures
     year: '2021'
   AHDTtwgAAAAJ:hFOr9nPyWt4C:
@@ -366,7 +366,7 @@ papers:
     title: A comparison of strategies for recruiting teachers into survey panels
     year: '2018'
   AHDTtwgAAAAJ:iH-uZ7U-co4C:
-    citations: 17
+    citations: 18
     title: Cross-correlation matrices for tests of independence and causality between two multivariate time series
     year: '2015'
   AHDTtwgAAAAJ:isC4tDSrTZIC:
@@ -434,11 +434,11 @@ papers:
     title: Categorical Changepoints and their Application to Atlantic Tropical Cyclone Changes
     year: '2009'
   AHDTtwgAAAAJ:qjMakFHDy7sC:
-    citations: 33
+    citations: 32
     title: 'Moving from efficacy to effectiveness: Implementing the drug market intervention across multiple sites'
     year: '2017'
   AHDTtwgAAAAJ:qxL8FJ1GzNcC:
-    citations: 169
+    citations: 168
     title: 'Hidden heroes: America''s military caregivers'
     year: '2014'
   AHDTtwgAAAAJ:r0BpntZqJG4C:
@@ -478,7 +478,7 @@ papers:
     title: 'Public Perceptions of AI for Homeland Security: A Survey Analysis'
     year: '2024'
   AHDTtwgAAAAJ:ufrVoPGSRksC:
-    citations: 1
+    citations: 2
     title: 'Military mental health care: Provider perspectives on treating ptsd and depression'
     year: '2017'
   AHDTtwgAAAAJ:vV6vV6tmYwMC:
