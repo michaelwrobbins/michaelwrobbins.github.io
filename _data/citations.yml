@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-06-29'
 papers:
   AHDTtwgAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -236,7 +236,7 @@ papers:
   AHDTtwgAAAAJ:XiSMed-E-HIC:
     citations: 3
     title: 'Stay Tuned: Improving Sentiment Analysis and Stance Detection Using Large Language Models'
-    year: '2025'
+    year: '2026'
   AHDTtwgAAAAJ:Y0pCki6q_DkC:
     citations: 0
     title: "Supplementary Material for \u201CA framework for synthetic control methods with high-dimensional, micro-level data: Evaluating a neighborhood-specific crime intervention\u201D"
@@ -314,7 +314,7 @@ papers:
     title: America's Post-9/11 Military and Veteran Caregivers
     year: '2024'
   AHDTtwgAAAAJ:d1gkVwhDpl0C:
-    citations: 53
+    citations: 52
     title: Blending probability and nonprobability samples with applications to a survey of military caregivers
     year: '2021'
   AHDTtwgAAAAJ:dfsIfKJdRG4C:
@@ -350,11 +350,11 @@ papers:
     title: A flexible and efficient algorithm for joint imputation of general data
     year: '2020'
   AHDTtwgAAAAJ:hC7cP41nSMkC:
-    citations: 100
+    citations: 102
     title: Nonparametric estimation of population average dose-response curves using entropy balancing weights for continuous exposures
     year: '2021'
   AHDTtwgAAAAJ:hFOr9nPyWt4C:
-    citations: 43
+    citations: 44
     title: RAND American educator panels technical description
     year: '2020'
   AHDTtwgAAAAJ:hMod-77fHWUC:
@@ -418,9 +418,9 @@ papers:
     title: Examining the challenges of missing data analysis in phase three of the agricultural resource management survey
     year: '2010'
   AHDTtwgAAAAJ:p2g8aNsByqUC:
-    citations: 0
+    citations: 1
     title: Exploring Contraceptive Care and Access Experiences of Veterans
-    year: '2026'
+    year: '2025'
   AHDTtwgAAAAJ:pqnbT2bcN3wC:
     citations: 1
     title: Resampling methods with imputed data
