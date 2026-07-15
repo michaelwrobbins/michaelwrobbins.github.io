@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-15'
 papers:
   AHDTtwgAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -178,7 +178,7 @@ papers:
     title: '2018 Health Related Behaviors Survey: Comparing the Active and Reserve Components'
     year: '2021'
   AHDTtwgAAAAJ:SP6oXDckpogC:
-    citations: 111
+    citations: 110
     title: '2018 Department of Defense Health Related Behaviors Survey (HRBS): results for the active component'
     year: '2021'
   AHDTtwgAAAAJ:Se3iqnhoufwC:
@@ -234,8 +234,8 @@ papers:
     title: A general regression changepoint test for time series data
     year: '2016'
   AHDTtwgAAAAJ:XiSMed-E-HIC:
-    citations: 3
-    title: 'Stay Tuned: Improving Sentiment Analysis and Stance Detection Using Large Language Models'
+    citations: 5
+    title: 'Stay tuned: Improving sentiment analysis and stance detection using large language models'
     year: '2026'
   AHDTtwgAAAAJ:Y0pCki6q_DkC:
     citations: 0
@@ -274,7 +274,7 @@ papers:
     title: 'Microsynth: synthetic control methods for disaggregated and micro-level data in R'
     year: '2021'
   AHDTtwgAAAAJ:_kc_bZDykSQC:
-    citations: 229
+    citations: 231
     title: 'A framework for synthetic control methods with high-dimensional, micro-level data: evaluating a neighborhood-specific crime intervention'
     year: '2017'
   AHDTtwgAAAAJ:_xSYboBqXhAC:
@@ -334,7 +334,7 @@ papers:
     title: Imputation in high-dimensional economic data as applied to the Agricultural Resource Management Survey
     year: '2013'
   AHDTtwgAAAAJ:eQOLeE2rZwMC:
-    citations: 26
+    citations: 27
     title: The impact of using mid-level providers in face-to-face primary care on health care utilization
     year: '2017'
   AHDTtwgAAAAJ:f2IySw72cVMC:
