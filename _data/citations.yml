@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-27'
 papers:
   AHDTtwgAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -26,7 +26,7 @@ papers:
     title: 'Assessing the Health Readiness of Marine Corps Reservists: Results from Marine Corps Reserve Respondents to the HRBS'
     year: '2021'
   AHDTtwgAAAAJ:4TOpqqG69KYC:
-    citations: 7
+    citations: 8
     title: Joint imputation of general data
     year: '2024'
   AHDTtwgAAAAJ:5nxA0vEk-isC:
@@ -38,7 +38,7 @@ papers:
     title: 'Interactive Pardee RAND Food-Energy-Water Security Index: Updates as of 2023'
     year: '2024'
   AHDTtwgAAAAJ:738O_yMBCRsC:
-    citations: 0
+    citations: 1
     title: A Demonstration of Propensity-Score Weighting to Adjust a Social Media Nonprobability Sample Survey of Political Attitudes
     year: '2026'
   AHDTtwgAAAAJ:7PzlFSSx8tAC:
@@ -50,7 +50,7 @@ papers:
     title: Support Resources for Military Caregivers
     year: '2014'
   AHDTtwgAAAAJ:9ZlFYXVOiuMC:
-    citations: 84
+    citations: 86
     title: Changepoints in the North Atlantic tropical cyclone record
     year: '2011'
   AHDTtwgAAAAJ:9yKSN-GCB0IC:
@@ -106,7 +106,7 @@ papers:
     title: Knowledge, Access and Choice of Contraceptives Among US Veterans
     year: '2026'
   AHDTtwgAAAAJ:KlAtU1dfN6UC:
-    citations: 116
+    citations: 117
     title: Changepoint detection in climate time series with long-term trends
     year: '2013'
   AHDTtwgAAAAJ:KxtntwgDAa4C:
@@ -178,15 +178,15 @@ papers:
     title: '2018 Health Related Behaviors Survey: Comparing the Active and Reserve Components'
     year: '2021'
   AHDTtwgAAAAJ:SP6oXDckpogC:
-    citations: 110
+    citations: 112
     title: '2018 Department of Defense Health Related Behaviors Survey (HRBS): results for the active component'
     year: '2021'
   AHDTtwgAAAAJ:Se3iqnhoufwC:
-    citations: 8
+    citations: 9
     title: An improved measure for lack of fit in time series models
     year: '2018'
   AHDTtwgAAAAJ:SeFeTyx0c_EC:
-    citations: 50
+    citations: 51
     title: Changepoint detection in daily precipitation data
     year: '2012'
   AHDTtwgAAAAJ:TFP_iSt0sucC:
@@ -222,7 +222,7 @@ papers:
     title: Modeling the Impact of Border-enforcement Measures
     year: '2020'
   AHDTtwgAAAAJ:WF5omc3nYNoC:
-    citations: 3
+    citations: 4
     title: Home health agency adoption of quality improvement activities and association with performance
     year: '2021'
   AHDTtwgAAAAJ:WbkHhVStYXYC:
@@ -230,11 +230,11 @@ papers:
     title: "Package \u2018microsynth\u2019"
     year: '2026'
   AHDTtwgAAAAJ:Wp0gIr-vW9MC:
-    citations: 46
+    citations: 47
     title: A general regression changepoint test for time series data
     year: '2016'
   AHDTtwgAAAAJ:XiSMed-E-HIC:
-    citations: 5
+    citations: 6
     title: 'Stay tuned: Improving sentiment analysis and stance detection using large language models'
     year: '2026'
   AHDTtwgAAAAJ:Y0pCki6q_DkC:
@@ -274,7 +274,7 @@ papers:
     title: 'Microsynth: synthetic control methods for disaggregated and micro-level data in R'
     year: '2021'
   AHDTtwgAAAAJ:_kc_bZDykSQC:
-    citations: 231
+    citations: 233
     title: 'A framework for synthetic control methods with high-dimensional, micro-level data: evaluating a neighborhood-specific crime intervention'
     year: '2017'
   AHDTtwgAAAAJ:_xSYboBqXhAC:
@@ -302,7 +302,7 @@ papers:
     title: A cheap trick to improve the power of a conservative hypothesis test
     year: '2019'
   AHDTtwgAAAAJ:bFI3QPDXJZMC:
-    citations: 4
+    citations: 5
     title: Perceptions of Mental Health Confidentiality Policies and Practices in the US Military
     year: '2025'
   AHDTtwgAAAAJ:blknAaTinKkC:
@@ -352,21 +352,21 @@ papers:
   AHDTtwgAAAAJ:hC7cP41nSMkC:
     citations: 102
     title: Nonparametric estimation of population average dose-response curves using entropy balancing weights for continuous exposures
-    year: '2021'
+    year: '2020'
   AHDTtwgAAAAJ:hFOr9nPyWt4C:
     citations: 44
     title: RAND American educator panels technical description
     year: '2020'
   AHDTtwgAAAAJ:hMod-77fHWUC:
-    citations: 4
+    citations: 5
     title: 'Change-point analysis: Asymptotic theory and applications'
     year: '2009'
   AHDTtwgAAAAJ:hqOjcs7Dif8C:
-    citations: 17
+    citations: 18
     title: A comparison of strategies for recruiting teachers into survey panels
     year: '2018'
   AHDTtwgAAAAJ:iH-uZ7U-co4C:
-    citations: 18
+    citations: 19
     title: Cross-correlation matrices for tests of independence and causality between two multivariate time series
     year: '2015'
   AHDTtwgAAAAJ:isC4tDSrTZIC:
@@ -434,7 +434,7 @@ papers:
     title: Categorical Changepoints and their Application to Atlantic Tropical Cyclone Changes
     year: '2009'
   AHDTtwgAAAAJ:qjMakFHDy7sC:
-    citations: 32
+    citations: 34
     title: 'Moving from efficacy to effectiveness: Implementing the drug market intervention across multiple sites'
     year: '2017'
   AHDTtwgAAAAJ:qxL8FJ1GzNcC:
