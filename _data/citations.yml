@@ -1,10 +1,14 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-14'
 papers:
   AHDTtwgAAAAJ:-f6ydRqryjwC:
     citations: 0
     title: Key Facts and Statistics from the RAND Military Caregivers Study
     year: '2014'
+  AHDTtwgAAAAJ:08ZZubdj9fEC:
+    citations: 1
+    title: Perceptions of Mental Health Confidentiality Policies and Practices in the US Military
+    year: '2024'
   AHDTtwgAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: 'Therapeutic Measures Required: To Ensure Millions of Veterans and Their Families Get High-Quality Care, Community Mental Health Providers Need More Training, Support, Resources'
@@ -29,6 +33,14 @@ papers:
     citations: 8
     title: Joint imputation of general data
     year: '2024'
+  AHDTtwgAAAAJ:4fKUyHm3Qg0C:
+    citations: 19
+    title: '2018 Health Related Behaviors Survey: Mental and Emotional Health Among the Active Component'
+    year: '2021'
+  AHDTtwgAAAAJ:5Ul4iDaHHb8C:
+    citations: 123
+    title: 2018 department of defense health related behaviors survey (HRBS)
+    year: '2021'
   AHDTtwgAAAAJ:5nxA0vEk-isC:
     citations: 0
     title: '2018 Health Related Behaviors Survey: Summary Findings and Policy Implications for the Reserve Component'
@@ -50,13 +62,17 @@ papers:
     title: Support Resources for Military Caregivers
     year: '2014'
   AHDTtwgAAAAJ:9ZlFYXVOiuMC:
-    citations: 86
+    citations: 87
     title: Changepoints in the North Atlantic tropical cyclone record
     year: '2011'
   AHDTtwgAAAAJ:9yKSN-GCB0IC:
     citations: 33
     title: Delivering clinical practice guideline-concordant care for PTSD and major depression in military treatment facilities
     year: '2018'
+  AHDTtwgAAAAJ:B3FOqHPlNUQC:
+    citations: 2
+    title: 'Hidden Heroes: America''s Military Caregivers, Santa Monica, Calif.: RAND Corporation'
+    year: '2014'
   AHDTtwgAAAAJ:BqipwSGYUEgC:
     citations: 0
     title: '2018 Health Related Behaviors Survey: Physical Health and Functional Limitations Among the Active Component'
@@ -83,7 +99,7 @@ papers:
     year: '2014'
   AHDTtwgAAAAJ:HoB7MX3m0LUC:
     citations: 9
-    title: 'What are Teachers'' and School Leaders'' Major Concerns about New K-12 State Tests?: Findings from the American Teacher and American School Leader Panels'
+    title: What Are Teachers' and School Leaders' Major Concerns About New K--12 State Tests? Findings from the American Teacher and American School Leader Panels
     year: '2016'
   AHDTtwgAAAAJ:IWHjjKOFINEC:
     citations: 0
@@ -94,11 +110,11 @@ papers:
     title: A fully flexible changepoint test for regression models with stationary errors
     year: '2020'
   AHDTtwgAAAAJ:JV2RwH3_ST0C:
-    citations: 7
+    citations: 6
     title: The utility of nonparametric transformations for imputation of survey data
     year: '2014'
   AHDTtwgAAAAJ:J_g5lzvAfSwC:
-    citations: 19
+    citations: 17
     title: "Hidden heroes: America's military caregivers\u2014executive summary"
     year: '2014'
   AHDTtwgAAAAJ:K3LRdlH-MEoC:
@@ -106,7 +122,7 @@ papers:
     title: Knowledge, Access and Choice of Contraceptives Among US Veterans
     year: '2026'
   AHDTtwgAAAAJ:KlAtU1dfN6UC:
-    citations: 117
+    citations: 120
     title: Changepoint detection in climate time series with long-term trends
     year: '2013'
   AHDTtwgAAAAJ:KxtntwgDAa4C:
@@ -122,7 +138,7 @@ papers:
     title: "An Assessment of Imputation Methods for the USDA\u2019s Agricultural Resource Management Survey"
     year: '2010'
   AHDTtwgAAAAJ:M05iB0D1s5AC:
-    citations: 13
+    citations: 11
     title: "Assessment of the impact of implementation of a zero blood alcohol concentration law in Uruguay on moderate/severe injury and fatal crashes: a quasi\u2010experimental study"
     year: '2021'
   AHDTtwgAAAAJ:M3NEmzRMIkIC:
@@ -134,7 +150,7 @@ papers:
     title: "What Supports Do Teachers Need to Help Students Meet Common Core State Standards for English Language Arts and Literacy?: Findings from the American Teacher and American School \u2026"
     year: '2016'
   AHDTtwgAAAAJ:MXK_kJrjxJIC:
-    citations: 7
+    citations: 9
     title: "Data fusion for predicting long\u2010term program impacts"
     year: '2024'
   AHDTtwgAAAAJ:NMxIlDl6LWMC:
@@ -150,7 +166,7 @@ papers:
     title: Promotion Benchmarks for Senior Officers with Joint and Acquisition Service
     year: '2016'
   AHDTtwgAAAAJ:OU6Ihb5iCvQC:
-    citations: 1
+    citations: 3
     title: Resampling methods with multiply imputed data
     year: '2025'
   AHDTtwgAAAAJ:P5F9QuxV20EC:
@@ -176,10 +192,6 @@ papers:
   AHDTtwgAAAAJ:RYcK_YlVTxYC:
     citations: 0
     title: '2018 Health Related Behaviors Survey: Comparing the Active and Reserve Components'
-    year: '2021'
-  AHDTtwgAAAAJ:SP6oXDckpogC:
-    citations: 112
-    title: '2018 Department of Defense Health Related Behaviors Survey (HRBS): results for the active component'
     year: '2021'
   AHDTtwgAAAAJ:Se3iqnhoufwC:
     citations: 9
@@ -215,11 +227,11 @@ papers:
     year: '2015'
   AHDTtwgAAAAJ:UxriW0iASnsC:
     citations: 1
-    title: "Benchmarking the Transportation Security Administration\u2019s covert index testing program"
+    title: "Benchmarking the Transportation Security Administration\u2019s Covert Index Testing Program"
     year: '2025'
   AHDTtwgAAAAJ:W7OEmFMy1HYC:
-    citations: 4
-    title: Modeling the Impact of Border-enforcement Measures
+    citations: 3
+    title: Modeling the Impact of Border-Enforcement Measures
     year: '2020'
   AHDTtwgAAAAJ:WF5omc3nYNoC:
     citations: 4
@@ -230,7 +242,7 @@ papers:
     title: "Package \u2018microsynth\u2019"
     year: '2026'
   AHDTtwgAAAAJ:Wp0gIr-vW9MC:
-    citations: 47
+    citations: 45
     title: A general regression changepoint test for time series data
     year: '2016'
   AHDTtwgAAAAJ:XiSMed-E-HIC:
@@ -250,12 +262,12 @@ papers:
     title: 'Assessing the Health Readiness of Active Component Sailors: Results from Navy Respondents to the HRBS'
     year: '2021'
   AHDTtwgAAAAJ:YsMSGLbcyi4C:
-    citations: 110
+    citations: 113
     title: Mean shift testing in correlated data
     year: '2011'
   AHDTtwgAAAAJ:ZHo1McVdvXMC:
     citations: 3
-    title: 'Actions to Improve Quality: Results From a National Hospital Survey.'
+    title: 'Actions to Improve Quality: Results From a National Hospital Survey'
     year: '2021'
   AHDTtwgAAAAJ:ZeXyd9-uunAC:
     citations: 0
@@ -274,7 +286,7 @@ papers:
     title: 'Microsynth: synthetic control methods for disaggregated and micro-level data in R'
     year: '2021'
   AHDTtwgAAAAJ:_kc_bZDykSQC:
-    citations: 233
+    citations: 231
     title: 'A framework for synthetic control methods with high-dimensional, micro-level data: evaluating a neighborhood-specific crime intervention'
     year: '2017'
   AHDTtwgAAAAJ:_xSYboBqXhAC:
@@ -290,7 +302,7 @@ papers:
     title: "Hidden Heroes: America's Military Caregivers\u2014Executive Summary"
     year: '2014'
   AHDTtwgAAAAJ:aqlVkmm33-oC:
-    citations: 18
+    citations: 16
     title: Farm commodity payments and imputation in the Agricultural Resource Management Survey
     year: '2011'
   AHDTtwgAAAAJ:b0M2c_1WBrUC:
@@ -302,8 +314,8 @@ papers:
     title: A cheap trick to improve the power of a conservative hypothesis test
     year: '2019'
   AHDTtwgAAAAJ:bFI3QPDXJZMC:
-    citations: 5
-    title: Perceptions of Mental Health Confidentiality Policies and Practices in the US Military
+    citations: 4
+    title: Perceptions of mental health confidentiality policies and practices in the US military
     year: '2025'
   AHDTtwgAAAAJ:blknAaTinKkC:
     citations: 0
@@ -322,7 +334,7 @@ papers:
     title: Quasi-Experimental Evaluations of Border-Enforcement Measures
     year: '2025'
   AHDTtwgAAAAJ:dhFuZR0502QC:
-    citations: 5
+    citations: 8
     title: The effect of incentives and mode of contact on the recruitment of teachers into survey panels
     year: '2020'
   AHDTtwgAAAAJ:dshw04ExmUIC:
@@ -330,11 +342,11 @@ papers:
     title: 2018 Health Related Behaviors Survey Physical Health and Functional Limitations Among the Reserve Component
     year: '2021'
   AHDTtwgAAAAJ:e5wmG9Sq2KIC:
-    citations: 35
+    citations: 36
     title: Imputation in high-dimensional economic data as applied to the Agricultural Resource Management Survey
     year: '2013'
   AHDTtwgAAAAJ:eQOLeE2rZwMC:
-    citations: 27
+    citations: 26
     title: The impact of using mid-level providers in face-to-face primary care on health care utilization
     year: '2017'
   AHDTtwgAAAAJ:f2IySw72cVMC:
@@ -349,10 +361,14 @@ papers:
     citations: 3
     title: A flexible and efficient algorithm for joint imputation of general data
     year: '2020'
+  AHDTtwgAAAAJ:geHnlv5EZngC:
+    citations: 4
+    title: "Hidden Heroes: America\u2019s Military Caregivers. Santa Monica, CA: RAND Corporation; 2014"
+    year: '2016'
   AHDTtwgAAAAJ:hC7cP41nSMkC:
     citations: 102
-    title: Nonparametric estimation of population average dose-response curves using entropy balancing weights for continuous exposures
-    year: '2020'
+    title: 'Nonparametric estimation of population average dose-response curves using entropy balancing weights for continuous exposures: BG Vegetabile et al.'
+    year: '2021'
   AHDTtwgAAAAJ:hFOr9nPyWt4C:
     citations: 44
     title: RAND American educator panels technical description
@@ -366,7 +382,7 @@ papers:
     title: A comparison of strategies for recruiting teachers into survey panels
     year: '2018'
   AHDTtwgAAAAJ:iH-uZ7U-co4C:
-    citations: 19
+    citations: 21
     title: Cross-correlation matrices for tests of independence and causality between two multivariate time series
     year: '2015'
   AHDTtwgAAAAJ:isC4tDSrTZIC:
@@ -382,7 +398,7 @@ papers:
     title: 'Military Mental Health Care: Provider Perspectives on Treating PTSD and Depression'
     year: '2017'
   AHDTtwgAAAAJ:k_IJM867U9cC:
-    citations: 15
+    citations: 14
     title: 'The quality of electrodiagnostic tests for carpal tunnel syndrome: Implications for surgery, outcomes, and expenditures'
     year: '2020'
   AHDTtwgAAAAJ:l7t_Zn2s7bgC:
@@ -394,20 +410,20 @@ papers:
     title: 'Quality of electrodiagnostic testing for carpal tunnel syndrome: adherence to quality measures'
     year: '2020'
   AHDTtwgAAAAJ:ldfaerwXgEUC:
-    citations: 14
+    citations: 13
     title: "What Supports Do Teachers Need to Help Students Meet Common Core State Standards for English Language Arts and Literacy?: Findings from the American Teacher and American School \u2026"
     year: '2016'
   AHDTtwgAAAAJ:mB3voiENLucC:
     citations: 1
     title: "What Are Teachers\u2019 and School Leaders\u2019 Major Concerns About New K\u201312 State Tests?"
-    year: '2016'
+    year: Unknown Year
   AHDTtwgAAAAJ:mVmsd5A6BfQC:
     citations: 1
     title: 'Causal inference using mixture models: a word of caution'
     year: '2014'
   AHDTtwgAAAAJ:maZDTaKrznsC:
     citations: 9
-    title: Direct payments, cash rents, land values, and the effects of imputation in us farm-level data
+    title: Direct payments, cash rents, land values, and the effects of imputation in US farm-level data
     year: '2014'
   AHDTtwgAAAAJ:nb7KW1ujOQ8C:
     citations: 0
@@ -420,7 +436,7 @@ papers:
   AHDTtwgAAAAJ:p2g8aNsByqUC:
     citations: 1
     title: Exploring Contraceptive Care and Access Experiences of Veterans
-    year: '2025'
+    year: '2026'
   AHDTtwgAAAAJ:pqnbT2bcN3wC:
     citations: 1
     title: Resampling methods with imputed data
@@ -434,11 +450,11 @@ papers:
     title: Categorical Changepoints and their Application to Atlantic Tropical Cyclone Changes
     year: '2009'
   AHDTtwgAAAAJ:qjMakFHDy7sC:
-    citations: 34
+    citations: 33
     title: 'Moving from efficacy to effectiveness: Implementing the drug market intervention across multiple sites'
     year: '2017'
   AHDTtwgAAAAJ:qxL8FJ1GzNcC:
-    citations: 168
+    citations: 171
     title: 'Hidden heroes: America''s military caregivers'
     year: '2014'
   AHDTtwgAAAAJ:r0BpntZqJG4C:
@@ -453,10 +469,18 @@ papers:
     citations: 6
     title: What Supports Do Teachers Need to Help Students Meet Common Core State Standards for Mathematics?
     year: '2016'
+  AHDTtwgAAAAJ:sSrBHYA8nusC:
+    citations: 2
+    title: 'Hidden Heroes: America''s Military Caregivers. RAND Corporation; 2014'
+    year: Unknown Year
   AHDTtwgAAAAJ:tOudhMTPpwUC:
     citations: 0
     title: Contraceptive knowledge and related factors among male and female US veterans of reproductive age
     year: '2026'
+  AHDTtwgAAAAJ:tS2w5q8j5-wC:
+    citations: 0
+    title: 2015 Department of Defense health related behaviors survey (HRBS)
+    year: '2018'
   AHDTtwgAAAAJ:u-x6o8ySG0sC:
     citations: 13
     title: "Robust estimation of the causal effect of time\u2010varying neighborhood factors on health outcomes"
@@ -481,6 +505,10 @@ papers:
     citations: 2
     title: 'Military mental health care: Provider perspectives on treating ptsd and depression'
     year: '2017'
+  AHDTtwgAAAAJ:vRqMK49ujn8C:
+    citations: 0
+    title: '2018 Department of Defense Health Related Behaviors Survey (HRBS): Results for the Reserve Component'
+    year: '2021'
   AHDTtwgAAAAJ:vV6vV6tmYwMC:
     citations: 0
     title: 'Assessing the Health Readiness of Army Reservists: Results from Army Reserve Respondents to the HRBS'
